@@ -64,22 +64,21 @@ Skilled in HTML & CSS, and continuously growing my expertise in JavaScript, Reac
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasnim951&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tasnim951&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 ---
 
-### 🏆 Most Used Languages
+## 🏆 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim951&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim951&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
----
+
 
 ##  Support Me
 
