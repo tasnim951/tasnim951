@@ -66,9 +66,9 @@ Skilled in HTML & CSS, and continuously growing my expertise in JavaScript, Reac
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://stats-github-readme.vercel.app/api?username=tasnim951&show_icons=true&theme=radical&hide_border=true" />
-</p>
+![Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/tasnim951&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/tasnim951?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/tasnim951?style=for-the-badge)
 
 ---
 
